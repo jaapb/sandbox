@@ -7,5 +7,3 @@ Some development
 Some more development
 
 Something new
-
-bingo
