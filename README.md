@@ -2,3 +2,5 @@
 
 This is a toy repository, not a sample repository.
 (changes merged)
+
+This is change A.
