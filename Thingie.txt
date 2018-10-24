@@ -3,11 +3,4 @@ And things like that
 Third line
 Fourth line
 
-why is it not working
-Some development
-yes it is working
-Some more development
-
-Something new
-
-Something newer
+Stuff and things
